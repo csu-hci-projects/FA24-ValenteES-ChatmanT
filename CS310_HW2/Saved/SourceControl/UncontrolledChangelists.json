@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/esperanz/Desktop/Tabitha Project/CS310_HW2/CS310_HW2/Content/VRTemplate/Input/IMC_Weapon_Right.uasset",
+				"C:/Users/esperanz/Desktop/Tabitha Project/CS310_HW2/CS310_HW2/Content/VRTemplate/Blueprints/Pistol.uasset",
+				"C:/Users/esperanz/Desktop/Tabitha Project/CS310_HW2/CS310_HW2/Content/HW2_stuff/IA_Reload_Right.uasset",
+				"C:/Users/esperanz/Desktop/Tabitha Project/CS310_HW2/CS310_HW2/Content/HW2_stuff/Win_Level.umap",
+				"C:/Users/esperanz/Desktop/Tabitha Project/CS310_HW2/CS310_HW2/Content/HW2_stuff/Hit.uasset",
+				"C:/Users/esperanz/Desktop/Tabitha Project/CS310_HW2/CS310_HW2/Content/HW2_stuff/VR_Target.uasset",
+				"C:/Users/esperanz/Desktop/Tabitha Project/CS310_HW2/CS310_HW2/Content/HW2_stuff/Level_one.umap",
+				"C:/Users/tabbykat/Documents/GitHub/CS310_HW2/CS310_HW2/Content/HW2_stuff/Level_one.umap",
+				"C:/Users/tabbykat/Documents/GitHub/CS310_HW2/CS310_HW2/Content/HW2_stuff/VR_Target.uasset",
+				"C:/Users/esperanz/Desktop/Tabitha Project/CS310_HW2/CS310_HW2/Content/HW2_stuff/Win_Levell.umap",
+				"C:/Users/Tabitha/OneDrive/Desktop/CS310 Repo/CS310_HW2/CS310_HW2/Content/HW2_stuff/Level_one.umap",
+				"C:/Users/Tabitha/OneDrive/Desktop/CS310 Repo/CS310_HW2/CS310_HW2/Content/HW2_stuff/Grabable_1.uasset",
+				"C:/Users/Tabitha/OneDrive/Desktop/CS310 Repo/CS310_HW2/CS310_HW2/Content/HW2_stuff/Grabable_2.uasset",
+				"C:/Users/Tabitha/OneDrive/Desktop/CS310 Repo/CS310_HW2/CS310_HW2/Content/HW2_stuff/Grabable_3.uasset",
+				"C:/Users/Tabitha/OneDrive/Desktop/CS310 Repo/CS310_HW2/CS310_HW2/Content/HW2_stuff/Main_Menu.uasset",
+				"C:/Users/Tabitha/OneDrive/Desktop/CS310 Repo/CS310_HW2/CS310_HW2/Content/Menu.umap",
+				"C:/Users/Tabitha/OneDrive/Desktop/CS310 Repo/CS310_HW2/CS310_HW2/Content/HW2_stuff/MainMenu_Blueprint.uasset",
+				"C:/Users/Tabitha/OneDrive/Desktop/CS310 Repo/CS310_HW2/CS310_HW2/Content/HW2_stuff/VR_Target.uasset",
+				"C:/Users/Tabitha/OneDrive/Desktop/CS310 Repo/CS310_HW2/CS310_HW2/Content/HW2_stuff/Menu.uasset",
+				"C:/Users/Tabitha/OneDrive/Desktop/CS310 Repo/CS310_HW2/CS310_HW2/Content/HW2_stuff/Menu_actor.uasset",
+				"C:/Users/Tabitha/OneDrive/Desktop/CS310 Repo/CS310_HW2/CS310_HW2/Content/HW2_stuff/Menu_pawn.uasset",
+				"C:/Users/Tabitha/OneDrive/Desktop/CS310 Repo/CS310_HW2/CS310_HW2/Content/HW2_stuff/Level_1.umap",
+				"C:/Users/Tabitha/OneDrive/Desktop/CS310 Repo/CS310_HW2/CS310_HW2/Content/HW2_stuff/Menu.umap",
+				"C:/Users/Tabitha/OneDrive/Desktop/CS310_HW2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+			]
+		}
+	]
+}
